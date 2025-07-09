@@ -1,0 +1,6 @@
+Household_ID,County,Household_Size,Monthly_Income,Public_Assistance,Rent_Burden_Pct,LEP_Flag,Child_Present,Disability_Flag,Prior_Referral_Source,SNAP_Enrolled,Eligibility_Likelihood_Score,Outreach_Priority_Index,Food_Insecurity_Risk_Score,Enrollment_Support_Index
+101,Hennepin,3,1800,Yes,40,No,Yes,No,School,No,100,2,30,Medium
+102,Ramsey,1,900,No,55,Yes,No,Yes,Clinic,No,100,4,70,High
+103,St. Louis,4,2600,Yes,30,Yes,Yes,No,Food Shelf,Yes,100,3,30,High
+104,Winona,2,1400,Yes,50,No,Yes,Yes,Church,No,100,4,70,High
+105,Nobles,5,2900,No,35,Yes,Yes,No,Community Org,No,100,3,0,High
